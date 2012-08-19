@@ -1,0 +1,1338 @@
+
+
+
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/tools/android list targets
+____________________
+</DW>
+Available Android targets:
+id: 1 or "android-3"
+     Name: Android 1.5
+     Type: Platform
+     API level: 3
+     Revision: 4
+     Skins: HVGA (default), HVGA-L, HVGA-P, QVGA-L, QVGA-P
+id: 2 or "Google Inc.:Google APIs:3"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 3
+     Description: Android + Google APIs
+     Based on Android 1.5 (API level 3)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: QVGA-P, HVGA-L, HVGA (default), QVGA-L, HVGA-P
+id: 3 or "android-4"
+     Name: Android 1.6
+     Type: Platform
+     API level: 4
+     Revision: 3
+     Skins: HVGA, QVGA, WVGA800 (default), WVGA854
+id: 4 or "Google Inc.:Google APIs:4"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 1.6 (API level 4)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, HVGA, WVGA800 (default), QVGA
+id: 5 or "android-5"
+     Name: Android 2.0
+     Type: Platform
+     API level: 5
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 6 or "Google Inc.:Google APIs:5"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0 (API level 5)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 7 or "android-6"
+     Name: Android 2.0.1
+     Type: Platform
+     API level: 6
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 8 or "Google Inc.:Google APIs:6"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0.1 (API level 6)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 9 or "android-7"
+     Name: Android 2.1-update1
+     Type: Platform
+     API level: 7
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 10 or "Google Inc.:Google APIs:7"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.1-update1 (API level 7)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 11 or "android-8"
+     Name: Android 2.2
+     Type: Platform
+     API level: 8
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 12 or "Google Inc.:Google APIs:8"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.2 (API level 8)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 13 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 14 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 15 or "android-9"
+     Name: Android 2.3
+     Type: Platform
+     API level: 9
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 16 or "Google Inc.:Google APIs:9"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 17 or "Sony Ericsson Mobile Communications AB:EDK:9"
+     Name: EDK
+     Type: Add-On
+     Vendor: Sony Ericsson Mobile Communications AB
+     Revision: 1
+     Description: XPERIA Device
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.sonyericsson.eventstream_1 (com.sonyericsson.eventstream_1.jar)
+          Library for Android Market filtering
+     Skins: WVGA854, WQVGA400, Xperia (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 18 or "android-10"
+     Name: Android 2.3.3
+     Type: Platform
+     API level: 10
+     Revision: 2
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 19 or "Google Inc.:Google APIs:10"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3.3 (API level 10)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 20 or "android-11"
+     Name: Android 3.0
+     Type: Platform
+     API level: 11
+     Revision: 2
+     Skins: WXGA (default)
+id: 21 or "Google Inc.:Google APIs:11"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.0 (API level 11)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 22 or "android-12"
+     Name: Android 3.1
+     Type: Platform
+     API level: 12
+     Revision: 3
+     Skins: WXGA (default)
+id: 23 or "Google Inc.:Google APIs:12"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.1 (API level 12)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 24 or "android-13"
+     Name: Android 3.2
+     Type: Platform
+     API level: 13
+     Revision: 1
+     Skins: WXGA (default)
+id: 25 or "Google Inc.:Google APIs:13"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.2 (API level 13)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+operation completed
+	emptySelectCount =  25
+	readCount = 220
+
+Cloning seed app for Android
+<DW>
+____________________
+cd /Users/steven97_007/Desktop
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/DWPhoneGap/android/scripts/droidGap.sh /Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/DWPhoneGap/android/PhoneGapApp 'testApp' com.companyname.testapp 1.0 /Users/steven97_007/Documents/android-sdk-mac_86 12
+____________________
+</DW>
+/Users/steven97_007/Desktop/com.companyname.testapp
+Created project directory: /Users/steven97_007/Desktop/com.companyname.testapp
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/src/com/companyname/testapp
+Added file /Users/steven97_007/Desktop/com.companyname.testapp/src/com/companyname/testapp/DefaultActivity.java
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/res
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/bin
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/libs
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/res/values
+Added file /Users/steven97_007/Desktop/com.companyname.testapp/res/values/strings.xml
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/res/layout
+Added file /Users/steven97_007/Desktop/com.companyname.testapp/res/layout/main.xml
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/res/drawable-hdpi
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/res/drawable-mdpi
+Created directory /Users/steven97_007/Desktop/com.companyname.testapp/res/drawable-ldpi
+Added file /Users/steven97_007/Desktop/com.companyname.testapp/AndroidManifest.xml
+Added file /Users/steven97_007/Desktop/com.companyname.testapp/build.xml
+Added file /Users/steven97_007/Desktop/com.companyname.testapp/proguard.cfg
+CLONE SUCCESSFUL
+operation completed
+	emptySelectCount =  19
+	readCount = 19
+WARNING: no icon was specified in app settings. using default.
+WARNING: no splash screen was specified in app settings. using default.
+
+building testApp for Android.
+<DW>
+____________________
+cd /Users/steven97_007/Desktop/com.companyname.testapp_Android/
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/apache-ant/bin/ant debug 2>&1
+____________________
+</DW>
+Buildfile: /Users/steven97_007/Desktop/com.companyname.testapp_Android/build.xml
+    [setup] Android SDK Tools Revision 13
+    [setup] Project Target: Google APIs
+    [setup] Vendor: Google Inc.
+    [setup] Platform Version: 2.2
+    [setup] API level: 8
+    [setup] 
+    [setup] ------------------
+    [setup] Resolving library dependencies:
+    [setup] No library dependencies.
+    [setup] 
+    [setup] ------------------
+    [setup] 
+    [setup] WARNING: Attribute minSdkVersion in AndroidManifest.xml (2) is lower than the project target API level (8)
+    [setup] 
+    [setup] Importing rules file: tools/ant/main_rules.xml
+
+-debug-obfuscation-check:
+
+-set-debug-mode:
+
+-compile-tested-if-test:
+
+-pre-build:
+
+-dirs:
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: /Users/steven97_007/Desktop/com.companyname.testapp_Android/gen
+    [mkdir] Created dir: /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes
+
+-aidl:
+     [echo] Compiling aidl files into Java classes...
+
+-renderscript:
+     [echo] Compiling RenderScript files into Java classes and RenderScript bytecode...
+
+-resource-src:
+     [echo] Generating R.java / Manifest.java from the resources...
+
+-pre-compile:
+
+compile:
+    [javac] /Users/steven97_007/Documents/android-sdk-mac_86/tools/ant/main_rules.xml:385: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 2 source files to /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Converting compiled files and external libraries into /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes.dex...
+operation completed
+	emptySelectCount =  69
+	readCount = 51
+
+
+
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/tools/android list targets
+____________________
+</DW>
+Available Android targets:
+id: 1 or "android-3"
+     Name: Android 1.5
+     Type: Platform
+     API level: 3
+     Revision: 4
+     Skins: HVGA (default), HVGA-L, HVGA-P, QVGA-L, QVGA-P
+id: 2 or "Google Inc.:Google APIs:3"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 3
+     Description: Android + Google APIs
+     Based on Android 1.5 (API level 3)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: QVGA-P, HVGA-L, HVGA (default), QVGA-L, HVGA-P
+id: 3 or "android-4"
+     Name: Android 1.6
+     Type: Platform
+     API level: 4
+     Revision: 3
+     Skins: HVGA, QVGA, WVGA800 (default), WVGA854
+id: 4 or "Google Inc.:Google APIs:4"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 1.6 (API level 4)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, HVGA, WVGA800 (default), QVGA
+id: 5 or "android-5"
+     Name: Android 2.0
+     Type: Platform
+     API level: 5
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 6 or "Google Inc.:Google APIs:5"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0 (API level 5)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 7 or "android-6"
+     Name: Android 2.0.1
+     Type: Platform
+     API level: 6
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 8 or "Google Inc.:Google APIs:6"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0.1 (API level 6)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 9 or "android-7"
+     Name: Android 2.1-update1
+     Type: Platform
+     API level: 7
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 10 or "Google Inc.:Google APIs:7"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.1-update1 (API level 7)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 11 or "android-8"
+     Name: Android 2.2
+     Type: Platform
+     API level: 8
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 12 or "Google Inc.:Google APIs:8"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.2 (API level 8)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 13 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 14 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 15 or "android-9"
+     Name: Android 2.3
+     Type: Platform
+     API level: 9
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 16 or "Google Inc.:Google APIs:9"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 17 or "Sony Ericsson Mobile Communications AB:EDK:9"
+     Name: EDK
+     Type: Add-On
+     Vendor: Sony Ericsson Mobile Communications AB
+     Revision: 1
+     Description: XPERIA Device
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.sonyericsson.eventstream_1 (com.sonyericsson.eventstream_1.jar)
+          Library for Android Market filtering
+     Skins: WVGA854, WQVGA400, Xperia (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 18 or "android-10"
+     Name: Android 2.3.3
+     Type: Platform
+     API level: 10
+     Revision: 2
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 19 or "Google Inc.:Google APIs:10"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3.3 (API level 10)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 20 or "android-11"
+     Name: Android 3.0
+     Type: Platform
+     API level: 11
+     Revision: 2
+     Skins: WXGA (default)
+id: 21 or "Google Inc.:Google APIs:11"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.0 (API level 11)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 22 or "android-12"
+     Name: Android 3.1
+     Type: Platform
+     API level: 12
+     Revision: 3
+     Skins: WXGA (default)
+id: 23 or "Google Inc.:Google APIs:12"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.1 (API level 12)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 24 or "android-13"
+     Name: Android 3.2
+     Type: Platform
+     API level: 13
+     Revision: 1
+     Skins: WXGA (default)
+id: 25 or "Google Inc.:Google APIs:13"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.2 (API level 13)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+operation completed
+	emptySelectCount =  18
+	readCount = 220
+
+
+
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/tools/android list targets
+____________________
+</DW>
+Available Android targets:
+id: 1 or "android-3"
+     Name: Android 1.5
+     Type: Platform
+     API level: 3
+     Revision: 4
+     Skins: HVGA (default), HVGA-L, HVGA-P, QVGA-L, QVGA-P
+id: 2 or "Google Inc.:Google APIs:3"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 3
+     Description: Android + Google APIs
+     Based on Android 1.5 (API level 3)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: QVGA-P, HVGA-L, HVGA (default), QVGA-L, HVGA-P
+id: 3 or "android-4"
+     Name: Android 1.6
+     Type: Platform
+     API level: 4
+     Revision: 3
+     Skins: HVGA, QVGA, WVGA800 (default), WVGA854
+id: 4 or "Google Inc.:Google APIs:4"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 1.6 (API level 4)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, HVGA, WVGA800 (default), QVGA
+id: 5 or "android-5"
+     Name: Android 2.0
+     Type: Platform
+     API level: 5
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 6 or "Google Inc.:Google APIs:5"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0 (API level 5)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 7 or "android-6"
+     Name: Android 2.0.1
+     Type: Platform
+     API level: 6
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 8 or "Google Inc.:Google APIs:6"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0.1 (API level 6)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 9 or "android-7"
+     Name: Android 2.1-update1
+     Type: Platform
+     API level: 7
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 10 or "Google Inc.:Google APIs:7"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.1-update1 (API level 7)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 11 or "android-8"
+     Name: Android 2.2
+     Type: Platform
+     API level: 8
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 12 or "Google Inc.:Google APIs:8"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.2 (API level 8)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 13 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 14 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 15 or "android-9"
+     Name: Android 2.3
+     Type: Platform
+     API level: 9
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 16 or "Google Inc.:Google APIs:9"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 17 or "Sony Ericsson Mobile Communications AB:EDK:9"
+     Name: EDK
+     Type: Add-On
+     Vendor: Sony Ericsson Mobile Communications AB
+     Revision: 1
+     Description: XPERIA Device
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.sonyericsson.eventstream_1 (com.sonyericsson.eventstream_1.jar)
+          Library for Android Market filtering
+     Skins: WVGA854, WQVGA400, Xperia (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 18 or "android-10"
+     Name: Android 2.3.3
+     Type: Platform
+     API level: 10
+     Revision: 2
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 19 or "Google Inc.:Google APIs:10"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3.3 (API level 10)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 20 or "android-11"
+     Name: Android 3.0
+     Type: Platform
+     API level: 11
+     Revision: 2
+     Skins: WXGA (default)
+id: 21 or "Google Inc.:Google APIs:11"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.0 (API level 11)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 22 or "android-12"
+     Name: Android 3.1
+     Type: Platform
+     API level: 12
+     Revision: 3
+     Skins: WXGA (default)
+id: 23 or "Google Inc.:Google APIs:12"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.1 (API level 12)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 24 or "android-13"
+     Name: Android 3.2
+     Type: Platform
+     API level: 13
+     Revision: 1
+     Skins: WXGA (default)
+id: 25 or "Google Inc.:Google APIs:13"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.2 (API level 13)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+operation completed
+	emptySelectCount =  21
+	readCount = 220
+
+Checking if Android emulator is running
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/platform-tools/adb devices
+____________________
+</DW>
+List of devices attached 
+
+operation completed
+	emptySelectCount =  2
+	readCount = 3
+Launching the Android emulator
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/tools/emulator -partition-size 1024 -cpu-delay 0 -no-boot-anim -avd 2.2 &
+____________________
+</DW>
+WARNING: no icon was specified in app settings. using default.
+WARNING: no splash screen was specified in app settings. using default.
+
+building testApp for Android.
+<DW>
+____________________
+cd /Users/steven97_007/Desktop/com.companyname.testapp_Android/
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/apache-ant/bin/ant debug 2>&1
+____________________
+</DW>
+Buildfile: /Users/steven97_007/Desktop/com.companyname.testapp_Android/build.xml
+    [setup] Android SDK Tools Revision 13
+    [setup] Project Target: Google APIs
+    [setup] Vendor: Google Inc.
+    [setup] Platform Version: 2.2
+    [setup] API level: 8
+    [setup] 
+    [setup] ------------------
+    [setup] Resolving library dependencies:
+    [setup] No library dependencies.
+    [setup] 
+    [setup] ------------------
+    [setup] 
+    [setup] WARNING: Attribute minSdkVersion in AndroidManifest.xml (2) is lower than the project target API level (8)
+    [setup] 
+    [setup] Importing rules file: tools/ant/main_rules.xml
+
+-debug-obfuscation-check:
+
+-set-debug-mode:
+
+-compile-tested-if-test:
+
+-pre-build:
+
+-dirs:
+     [echo] Creating output directories if needed...
+
+-aidl:
+     [echo] Compiling aidl files into Java classes...
+
+-renderscript:
+     [echo] Compiling RenderScript files into Java classes and RenderScript bytecode...
+
+-resource-src:
+     [echo] Generating R.java / Manifest.java from the resources...
+
+-pre-compile:
+
+compile:
+    [javac] /Users/steven97_007/Documents/android-sdk-mac_86/tools/ant/main_rules.xml:385: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 1 source file to /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Converting compiled files and external libraries into /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes.dex...
+
+-package-resources:
+     [echo] Packaging resources
+     [aapt] Creating full resource package...
+     [aapt] Warning: AndroidManifest.xml already defines debuggable (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+
+-package-debug-sign:
+[apkbuilder] Creating testapp-debug-unaligned.apk and signing it with a debug key...
+
+debug:
+     [echo] Running zip align on final apk...
+     [echo] Debug Package: /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/testapp-debug.apk
+
+BUILD SUCCESSFUL
+Total time: 28 seconds
+operation completed
+	emptySelectCount =  184
+	readCount = 65
+killing adb server
+killing adb server
+ERROR: failed to launch Android emulator
+
+
+
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/tools/android list targets
+____________________
+</DW>
+Available Android targets:
+id: 1 or "android-3"
+     Name: Android 1.5
+     Type: Platform
+     API level: 3
+     Revision: 4
+     Skins: HVGA (default), HVGA-L, HVGA-P, QVGA-L, QVGA-P
+id: 2 or "Google Inc.:Google APIs:3"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 3
+     Description: Android + Google APIs
+     Based on Android 1.5 (API level 3)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: QVGA-P, HVGA-L, HVGA (default), QVGA-L, HVGA-P
+id: 3 or "android-4"
+     Name: Android 1.6
+     Type: Platform
+     API level: 4
+     Revision: 3
+     Skins: HVGA, QVGA, WVGA800 (default), WVGA854
+id: 4 or "Google Inc.:Google APIs:4"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 1.6 (API level 4)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, HVGA, WVGA800 (default), QVGA
+id: 5 or "android-5"
+     Name: Android 2.0
+     Type: Platform
+     API level: 5
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 6 or "Google Inc.:Google APIs:5"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0 (API level 5)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 7 or "android-6"
+     Name: Android 2.0.1
+     Type: Platform
+     API level: 6
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 8 or "Google Inc.:Google APIs:6"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.0.1 (API level 6)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 9 or "android-7"
+     Name: Android 2.1-update1
+     Type: Platform
+     API level: 7
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 10 or "Google Inc.:Google APIs:7"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 2.1-update1 (API level 7)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 11 or "android-8"
+     Name: Android 2.2
+     Type: Platform
+     API level: 8
+     Revision: 3
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 12 or "Google Inc.:Google APIs:8"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.2 (API level 8)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 13 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 14 or "Samsung Electronics Co., Ltd.:GALAXY Tab Addon:8"
+     Name: GALAXY Tab Addon
+     Type: Add-On
+     Vendor: Samsung Electronics Co., Ltd.
+     Revision: 1
+     Based on Android 2.2 (API level 8)
+     Skins: WVGA854, WQVGA400, GALAXY Tab (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 15 or "android-9"
+     Name: Android 2.3
+     Type: Platform
+     API level: 9
+     Revision: 1
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 16 or "Google Inc.:Google APIs:9"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 17 or "Sony Ericsson Mobile Communications AB:EDK:9"
+     Name: EDK
+     Type: Add-On
+     Vendor: Sony Ericsson Mobile Communications AB
+     Revision: 1
+     Description: XPERIA Device
+     Based on Android 2.3 (API level 9)
+     Libraries:
+      * com.sonyericsson.eventstream_1 (com.sonyericsson.eventstream_1.jar)
+          Library for Android Market filtering
+     Skins: WVGA854, WQVGA400, Xperia (default), HVGA, WQVGA432, WVGA800, QVGA
+id: 18 or "android-10"
+     Name: Android 2.3.3
+     Type: Platform
+     API level: 10
+     Revision: 2
+     Skins: HVGA, QVGA, WQVGA400, WQVGA432, WVGA800 (default), WVGA854
+id: 19 or "Google Inc.:Google APIs:10"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 2
+     Description: Android + Google APIs
+     Based on Android 2.3.3 (API level 10)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WVGA854, WQVGA400, HVGA, WQVGA432, WVGA800 (default), QVGA
+id: 20 or "android-11"
+     Name: Android 3.0
+     Type: Platform
+     API level: 11
+     Revision: 2
+     Skins: WXGA (default)
+id: 21 or "Google Inc.:Google APIs:11"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.0 (API level 11)
+     Libraries:
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 22 or "android-12"
+     Name: Android 3.1
+     Type: Platform
+     API level: 12
+     Revision: 3
+     Skins: WXGA (default)
+id: 23 or "Google Inc.:Google APIs:12"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.1 (API level 12)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+id: 24 or "android-13"
+     Name: Android 3.2
+     Type: Platform
+     API level: 13
+     Revision: 1
+     Skins: WXGA (default)
+id: 25 or "Google Inc.:Google APIs:13"
+     Name: Google APIs
+     Type: Add-On
+     Vendor: Google Inc.
+     Revision: 1
+     Description: Android + Google APIs
+     Based on Android 3.2 (API level 13)
+     Libraries:
+      * com.android.future.usb.accessory (usb.jar)
+          API for USB Accessories
+      * com.google.android.maps (maps.jar)
+          API for Google Maps
+     Skins: WXGA (default)
+operation completed
+	emptySelectCount =  29
+	readCount = 220
+
+Checking if Android emulator is running
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/platform-tools/adb devices
+____________________
+</DW>
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+List of devices attached 
+
+operation completed
+	emptySelectCount =  31
+	readCount = 5
+Launching the Android emulator
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/tools/emulator -partition-size 1024 -cpu-delay 0 -no-boot-anim -avd 2.2 &
+____________________
+</DW>
+WARNING: no icon was specified in app settings. using default.
+WARNING: no splash screen was specified in app settings. using default.
+
+building testApp for Android.
+<DW>
+____________________
+cd /Users/steven97_007/Desktop/com.companyname.testapp_Android/
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/apache-ant/bin/ant debug 2>&1
+____________________
+</DW>
+Buildfile: /Users/steven97_007/Desktop/com.companyname.testapp_Android/build.xml
+    [setup] Android SDK Tools Revision 13
+    [setup] Project Target: Google APIs
+    [setup] Vendor: Google Inc.
+    [setup] Platform Version: 2.2
+    [setup] API level: 8
+    [setup] 
+    [setup] ------------------
+    [setup] Resolving library dependencies:
+    [setup] No library dependencies.
+    [setup] 
+    [setup] ------------------
+    [setup] 
+    [setup] WARNING: Attribute minSdkVersion in AndroidManifest.xml (2) is lower than the project target API level (8)
+    [setup] 
+    [setup] Importing rules file: tools/ant/main_rules.xml
+
+-debug-obfuscation-check:
+
+-set-debug-mode:
+
+-compile-tested-if-test:
+
+-pre-build:
+
+-dirs:
+     [echo] Creating output directories if needed...
+
+-aidl:
+     [echo] Compiling aidl files into Java classes...
+
+-renderscript:
+     [echo] Compiling RenderScript files into Java classes and RenderScript bytecode...
+
+-resource-src:
+     [echo] Generating R.java / Manifest.java from the resources...
+
+-pre-compile:
+
+compile:
+    [javac] /Users/steven97_007/Documents/android-sdk-mac_86/tools/ant/main_rules.xml:385: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 1 source file to /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Converting compiled files and external libraries into /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes.dex...
+
+-package-resources:
+     [echo] Packaging resources
+     [aapt] Creating full resource package...
+     [aapt] Warning: AndroidManifest.xml already defines debuggable (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+
+-package-debug-sign:
+[apkbuilder] Creating testapp-debug-unaligned.apk and signing it with a debug key...
+
+debug:
+     [echo] Running zip align on final apk...
+     [echo] Debug Package: /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/testapp-debug.apk
+
+BUILD SUCCESSFUL
+Total time: 20 seconds
+operation completed
+	emptySelectCount =  2
+	readCount = 65
+killing adb server
+
+getting port number
+<DW>
+____________________
+/Users/steven97_007/Documents/android-sdk-mac_86/platform-tools/adb devices
+____________________
+</DW>
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+List of devices attached 
+emulator-5554	device
+
+operation completed
+	emptySelectCount =  28
+	readCount = 6
+
+Installing app into Android emulator
+<DW>
+____________________
+cd /Users/steven97_007/Desktop/com.companyname.testapp_Android/
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/apache-ant/bin/ant install 2>&1
+____________________
+</DW>
+Buildfile: /Users/steven97_007/Desktop/com.companyname.testapp_Android/build.xml
+    [setup] Android SDK Tools Revision 13
+    [setup] Project Target: Google APIs
+    [setup] Vendor: Google Inc.
+    [setup] Platform Version: 2.2
+    [setup] API level: 8
+    [setup] 
+    [setup] ------------------
+    [setup] Resolving library dependencies:
+    [setup] No library dependencies.
+    [setup] 
+    [setup] ------------------
+    [setup] 
+    [setup] WARNING: Attribute minSdkVersion in AndroidManifest.xml (2) is lower than the project target API level (8)
+    [setup] 
+    [setup] Importing rules file: tools/ant/main_rules.xml
+
+-debug-obfuscation-check:
+
+-set-debug-mode:
+
+-compile-tested-if-test:
+
+-pre-build:
+
+-dirs:
+     [echo] Creating output directories if needed...
+
+-aidl:
+     [echo] Compiling aidl files into Java classes...
+
+-renderscript:
+     [echo] Compiling RenderScript files into Java classes and RenderScript bytecode...
+
+-resource-src:
+     [echo] Generating R.java / Manifest.java from the resources...
+
+-pre-compile:
+
+compile:
+    [javac] /Users/steven97_007/Documents/android-sdk-mac_86/tools/ant/main_rules.xml:385: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 1 source file to /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+     [echo] Converting compiled files and external libraries into /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/classes.dex...
+
+-package-resources:
+     [echo] Packaging resources
+     [aapt] Creating full resource package...
+     [aapt] Warning: AndroidManifest.xml already defines debuggable (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+
+-package-debug-sign:
+[apkbuilder] Creating testapp-debug-unaligned.apk and signing it with a debug key...
+
+debug:
+     [echo] Running zip align on final apk...
+     [echo] Debug Package: /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/testapp-debug.apk
+
+install:
+     [echo] Installing /Users/steven97_007/Desktop/com.companyname.testapp_Android/bin/testapp-debug.apk onto default emulator or device...
+     [exec] 1223 KB/s (195808 bytes in 0.156s)
+     [exec] 	pkg: /data/local/tmp/testapp-debug.apk
+     [exec] Success
+
+BUILD SUCCESSFUL
+Total time: 25 seconds
+operation completed
+	emptySelectCount =  259
+	readCount = 71
+
+Unlocking emulator screen
+<DW>
+____________________
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/DWPhoneGap/android/scripts/android_unlock.sh 5554
+____________________
+</DW>
+Android Console: type 'help' for a list of commands
+OK
+OK
+Android Console: type 'help' for a list of commands
+OK
+OK
+Android Console: type 'help' for a list of commands
+OK
+OK
+Android Console: type 'help' for a list of commands
+OK
+OK
+operation completed
+	emptySelectCount =  6
+	readCount = 13
+
+Running app in Android emulator
+<DW>
+____________________
+/Applications/Adobe\ Dreamweaver\ CS5.5/Configuration/NativeAppFramework/DWPhoneGap/android/scripts/android_run.sh com.companyname.testapp /Users/steven97_007/Documents/android-sdk-mac_86
+____________________
+</DW>
+Starting: Intent { act=android.intent.action.MAIN cmp=com.companyname.testapp/.DefaultActivity }
+operation completed
+	emptySelectCount =  19
+	readCount = 2
